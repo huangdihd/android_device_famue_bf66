@@ -111,6 +111,9 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_INCLUDE_REPACKTOOLS := true
+TW_INCLUDE_ADB := true
+TW_ADB_BUILDBIN := true
+
 
 # Additional Configuration
 BOARD_INCLUDE_RECOVERY_DTBO := true
